@@ -3575,12 +3575,12 @@ textarea.form-control-lg {
 }
 
 .navbar-toggler {
-  padding: 0.5rem 0.75rem;
-  font-size: 1.55rem;
-  line-height: 1;
-  background-color: transparent;
-  border: 3px solid transparent;
-  border-radius: 0.5rem;
+  padding: 0.9rem 0.9rem;
+  font-size: 2rem;
+  line-height: 3;
+  background-color:#be0761 ;
+  border: 4px solid transparent;
+  border-radius: 0.9rem;
   transition: box-shadow 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
